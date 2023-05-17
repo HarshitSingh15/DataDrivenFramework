@@ -1,0 +1,10 @@
+INFO    2020-12-05 23:32:19,105 [main] base.BaseTest  -  Test Execution Started!!! 
+INFO    2020-12-05 23:32:19,109 [main] base.BaseTest  -  Config propeties loaded !!! 
+INFO    2020-12-05 23:32:19,110 [main] base.BaseTest  -  OR propeties loaded !!! 
+INFO    2020-12-05 23:32:29,363 [main] base.BaseTest  - Chrome browser Launched !!!
+INFO    2020-12-05 23:32:40,098 [main] base.BaseTest  - Clicking on an Element: bmLoginBtn_XPATH
+INFO    2020-12-05 23:32:40,455 [main] base.BaseTest  - Clicking on an Element: AddCustBtn_XPATH
+INFO    2020-12-05 23:32:40,855 [main] base.BaseTest  - Typing in an Element: firstname_XPATH entered the value as : Marvin
+INFO    2020-12-05 23:32:41,108 [main] base.BaseTest  - Typing in an Element: lastname_XPATH entered the value as : Minerva
+INFO    2020-12-05 23:32:41,358 [main] base.BaseTest  - Typing in an Element: postCode_XPATH entered the value as : GRY7890
+INFO    2020-12-05 23:32:41,584 [main] base.BaseTest  - Clicking on an Element: SveAddCust_XPATH
